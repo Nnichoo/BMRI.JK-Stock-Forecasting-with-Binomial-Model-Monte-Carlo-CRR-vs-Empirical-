@@ -15,7 +15,7 @@ Hasil simulasi dibandingkan dengan harga saham aktual menggunakan ukuran error *
 
 ## Tujuan
 
-- Memodelkan pergerakan harga saham BRIS secara probabilistik
+- Memodelkan pergerakan harga saham BMRI secara probabilistik
 - Membandingkan performa metode CRR dan empiris
 - Menentukan metode dengan hasil prediksi terbaik
 
